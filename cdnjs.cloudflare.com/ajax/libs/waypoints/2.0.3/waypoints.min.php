@@ -1,0 +1,1 @@
+No Content: https://onlineastrologyremedies.com/cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.php
